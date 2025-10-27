@@ -1,3 +1,21 @@
+# Changelog
+
+## 0.1.0 (2025-10-27)
+
+
+### Features
+
+* add docker ([3562180](https://github.com/meysam81/Cronicle/commit/35621802c2956ffa1e7f064e22b69c5d07618eb9))
+
+
+### Bug Fixes
+
+* 85 ([e3c0cbe](https://github.com/meysam81/Cronicle/commit/e3c0cbefc6cb9e1172f34d91de3892ed13c38821))
+* **CI:** force run GHA ([2f520ea](https://github.com/meysam81/Cronicle/commit/2f520eae9f32b6d3fae9673b7db6ba2233b8a851))
+* **CI:** lowercase image repository ([9ec0565](https://github.com/meysam81/Cronicle/commit/9ec05650874a03e21c46bdf4819576f109cce875))
+* **CI:** trigger on master ([fac7fa3](https://github.com/meysam81/Cronicle/commit/fac7fa3f36e0aa62d5bf6b81b7ae4fcdded643f3))
+* modify typo ([36c6552](https://github.com/meysam81/Cronicle/commit/36c655210de64bf4efc9e2ac882e6f78c0ec4167))
+
 ### Changelog
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
