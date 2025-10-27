@@ -1,0 +1,13 @@
+---
+services:
+  cronicle:
+    # image: ghcr.io/jhuckaby/cronicle:latest
+    image: cronicle
+    build: .
+    ports:
+      - "3012:3012"
+    volumes:
+      - cronicle_data:/data
+
+volumes:
+  cronicle_data:
